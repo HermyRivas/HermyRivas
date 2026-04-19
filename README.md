@@ -12,7 +12,7 @@ JavaScript | MySQL | HTML | PHP
 
 ## 🚀 Proyectos: 
 
-HermyRivas
+En construcción...
 
 ## 📫 Contacto:
 
