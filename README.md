@@ -10,8 +10,10 @@ Soy docente de informática en bachillerato, Me encanta la tecnología y enseña
 
 JavaScript | MySQL | HTML | PHP
 
-## 🚀 Proyectos: HermyRivas
+## 🚀 Proyectos: 
+
+HermyRivas
 
 ## 📫 Contacto:
 
-## Email: hermyrivas@gmail.com
+Email: hermyrivas@gmail.com
